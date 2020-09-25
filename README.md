@@ -7,7 +7,7 @@ This project about try to clone google with `reactjs`
 
 **Testing** : `npm run test` or `yarn test`
 
-**Build into production** : `npm run build` or `yarn bulild`
+**Build into production** : `npm run build` or `yarn build`
 
 **Eject** : `npm run eject` or `yarn eject`
 
