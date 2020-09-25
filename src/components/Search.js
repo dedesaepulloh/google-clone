@@ -14,7 +14,7 @@ const Search = ({ hideButtons = false }) => {
     const [input, setInput] = useState("");
     const history = useHistory();
 
-    const search = (e) => {
+    const search = e => {
         e.preventDefault();
         
         console.log('you hit the search button >> ', input)
