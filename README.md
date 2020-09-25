@@ -19,7 +19,6 @@ This project about try to clone google with `reactjs`
 - push
 - and create pull request!
 
-## Demo
-https://clone-bb7c5.web.app/
+**Demo** : https://clone-bb7c5.web.app/
 
 Author: https://github.com/dedesaepulloh 
